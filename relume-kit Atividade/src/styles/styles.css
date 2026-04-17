@@ -1,0 +1,95 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 48px 88px;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    color: black;
+}
+
+.seta{
+    width: 24px;
+    height: 24px;
+    gap: 4px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    width: 88px;
+    height: 40px;
+
+}
+
+.sla{
+    display: flex;
+    justify-content: center;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    border: 2px solid black;
+    width: 396px;
+    height: 40px;
+}
+
+aside{
+    padding: 273.5px 80px;
+
+}
+
+div{
+    padding: 560 353;
+}
+
+h1{
+    width: 560px;
+    height: 134px;
+    font-size: 56px;
+}
+
+div>p{
+    font-size: 18px;
+}
+
+
+.video{
+    width: 720px;
+    height: 100%;
+}
+
+.politica{
+    padding:16px 0;
+    width: 513px;
+    height: 18px;
+    font-size: 12px;
+    gap: 16px;
+}
+
+.social-medias{
+    display: flex;
+    justify-content: end;
+    gap: 12px;
+}
+
+.settings{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 112px 425.5px; */
+    gap: 24px;
+}
+
+.final{
+    padding: 80px 80px;
+}
